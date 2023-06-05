@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](github.com/WerSzpe/Product-Preview-Card-Component)
-- Live Site URL: [soon](soon)
+- Live Site URL: [Click here](https://werszpe.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
